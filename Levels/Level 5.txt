@@ -1,0 +1,10 @@
+laser 315 BLUE 300 100 Laser_Diode_Blue.png
+laser 270 RED 100 100 Laser_Diode_Red.png
+laser 270 GREEN 1300 100 Laser_Diode_Green.png
+detector BLUE 1500 100 Photoresistor_Blue_On.png Photoresistor_Blue_Off.png
+detector RED 1500 800 Photoresistor_Red_On.png Photoresistor_Red_Off.png
+detector GREEN 1100 100 Photoresistor_Green_On.png Photoresistor_Green_Off.png
+wall 1200 0 25 450
+wall 400 450 25 450
+wall 1000 450 225 25
+mirrors 7

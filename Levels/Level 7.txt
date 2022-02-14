@@ -1,0 +1,7 @@
+laser 0 WHITE 100 100 Laser_Diode_White.png
+detector WHITE 1500 100 Photoresistor_White_On.png Photoresistor_White_Off.png
+detector WHITE 100 800 Photoresistor_White_On.png Photoresistor_White_Off.png
+splitter 800 450  Splitter_Crystal.png
+wall 1200 300 400 25
+wall 0 500 400 25
+mirrors 6
