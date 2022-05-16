@@ -1,0 +1,4 @@
+laser 0 WHITE 100 450 Sprites/Laser_Diode_White.png
+splitter 500 450 Sprites/Splitter_Crystal.png
+refractor 1100 100 Sprites/Radial_Refractor.png
+refractor 1100 800 Sprites/Radial_Refractor.png

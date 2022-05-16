@@ -1,0 +1,5 @@
+laser 315 WHITE 100 100 Sprites/Laser_Diode_White.png
+splitter 800 450 Sprites/Splitter_Crystal.png
+detector WHITE 1500 100 Sprites/Photoresistor_White_On.png Sprites/Photoresistor_White_Off.png
+detector WHITE 1500 800 Sprites/Photoresistor_White_On.png Sprites/Photoresistor_White_Off.png
+mirrors 5

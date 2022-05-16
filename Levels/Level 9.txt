@@ -1,0 +1,6 @@
+laser 0 WHITE 100 100 Sprites/Laser_Diode_White.png
+detector RED 1500 125 Sprites/Photoresistor_Red_On.png Sprites/Photoresistor_Red_Off.png
+detector GREEN 1500 825 Sprites/Photoresistor_Green_On.png Sprites/Photoresistor_Green_Off.png
+detector BLUE 100 825 Sprites/Photoresistor_Blue_On.png Sprites/Photoresistor_Blue_Off.png
+refractor 800 550 Sprites/Radial_Refractor.png
+mirrors 6
