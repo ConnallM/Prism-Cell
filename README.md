@@ -44,6 +44,11 @@ Wall:
 wall (x-coordinate) (y-coordinate) (length) (width)
 Coordinates, length and width are integers. The coordinates are for the top-left corner of the rectangular wall.
 
+Mirrors:
+you must also include a line determining how many mirrors the player is allowed to place per level
+mirror (number)
+Number is an integer.
+
 
 
 You should now be able to create your own level (if you can wrap your head around this confusing implementation)!
