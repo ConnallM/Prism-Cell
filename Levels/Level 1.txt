@@ -1,3 +1,0 @@
-laser 270 WHITE 100 100 Laser_Diode_White.png
-refractor 100 800 Radial_Refractor.png
-splitter 800 410 Splitter_Crystal.png 

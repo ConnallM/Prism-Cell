@@ -1,6 +1,0 @@
-laser 0 WHITE 100 100 Laser_Diode_White.png
-detector RED 1500 125 Photoresistor_Red_On.png Photoresistor_Red_Off.png
-detector GREEN 1500 825 Photoresistor_Green_On.png Photoresistor_Green_Off.png
-detector BLUE 100 825 Photoresistor_Blue_On.png Photoresistor_Blue_Off.png
-refractor 800 550 Radial_Refractor.png
-mirrors 6

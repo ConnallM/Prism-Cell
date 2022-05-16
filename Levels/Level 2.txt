@@ -1,3 +1,0 @@
-laser 315 WHITE 100 100 Laser_Diode_White.png
-detector WHITE 1500 100 Photoresistor_White_On.png Photoresistor_White_Off.png
-mirrors 3
