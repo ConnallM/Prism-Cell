@@ -3,6 +3,9 @@ PRISM CELL
 
 Built using Python version 3.9.4, and pygame version 2.0.1
 
+Here is a link to python downloads: https://www.python.org/downloads/
+Here is a link to instructions on how to install pygame: https://www.pygame.org/wiki/GettingStarted
+
 Short puzzle game made for grade 12 computer science final project. Written using python and pygame, with some custom sprites and stock sound effects.
 Little disorganized but having pygame installed and having all the files in one folder, and running Prism Cell.py should launch the game.
 
